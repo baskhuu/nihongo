@@ -1,2 +1,2 @@
 # nihongo
-JLPT data
+jlpt
